@@ -8,9 +8,9 @@ permalink: /Lieux/
 
 Le club vous accueille à 3 horaires différents dans 3 salles:
 
-* A la salle des fêtes pour les adultes, de 18h45h à 20h15 tous les mercredis soir.
-* Au Dojo pour les enfants de 7 à 10 ans, tous les jeudis.
-* Au foyer pour les enfants de 5/6 ans, tous les lundis
+* A la **salle des fêtes** pour les adultes, de 18h45h à 20h15 tous les mercredis soir.
+* Au **Dojo** pour les enfants de 7 à 10 ans, tous les jeudis.
+* Au **foyer** pour les enfants de 5/6 ans, tous les lundis
 
 <p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.082860005827!2d1.525428749202046!3d43.48160236208217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1693662821357!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -29,7 +29,7 @@ Le club vous accueille au 1er étage de la salle **Crossfit Rive Droite**, au 10
 
 ## A Toulouse
 
-Le club vous accueille au Pôle sport de l'université Paul Sabatier: 
+Le club vous accueille au **Pôle sport de l'université Paul Sabatier**: 
 * Dans la salle de combat et
 * Dans le dojo.
 
