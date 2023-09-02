@@ -6,9 +6,17 @@ title: "Tarifs"
 
 Les cours de Deyme et de Ramonville / Paul Sabatier sont séparés et les tarifs sont différents.
 
+|   Emoji   |   Nom |   Hex |   Dec |   Prix    |
+|---    |:-:    |:-:    |:-:    |--:    |
+|   &#x1F600;   |   GRINNING FACE   |   ```&#x1F600;``` |   ```&#128512;``` |   0.05 €  |
+|   &#x1F602;   |   FACE WITH TEARS OF JOY  |   ```&#x1F602;``` |   ```&#128514;``` |   0.12 €  |
+|   &#x1F923;   |   ROLLING ON THE FLOOR LAUGHING   |   ```&#x1F923;``` |   ```&#129315;``` |   0.09 €  |
+
+
 | DEYME |
-| | Licence | Adhésion association | Cours |
-| Enfants 5-10 ans | 25€ | 10€ | 150€ |
+| | Licence | Adhésion association | Cours | ASCD |
+| Enfants 5-10 ans | 25€ | 10€ | 150€ | 10€ |
+| Adultes | 35€ | 10€ | 160€ | 10€ |
 
 ## A Deyme
 
