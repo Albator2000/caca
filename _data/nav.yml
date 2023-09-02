@@ -1,8 +1,8 @@
 # header links
 header:
-  - title: "Lieux / Horaires"
+  - title: "Nos salles"
     url: "/Lieux/"
-    description: "Lieux et Horaires des cours"
+    description: "Lieux des cours"
   - title: "Tarifs"
     url: "/Tarifs/"
     description: "Tarifs"
