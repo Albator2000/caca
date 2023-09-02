@@ -36,7 +36,7 @@ Nicolas - BPJEPS en 2020
 
 JP - BPJEPS en 2022
 
-<img src="/assets/images/_6161058.jpg" width="200" height="250" />
+<img src="/assets/images/_6161058.jpg" width="200" height="266" />
 
 ## Les assistants
 
