@@ -6,17 +6,16 @@ title: "Tarifs"
 
 Les cours de Deyme et de Ramonville / Paul Sabatier sont séparés et les tarifs sont différents.
 
-|   Emoji   |   Nom |   Hex |   Dec |   Prix    |
-|---    |:-:    |:-:    |:-:    |--:    |
-|   &#x1F600;   |   GRINNING FACE   |   ```&#x1F600;``` |   ```&#128512;``` |   0.05 €  |
-|   &#x1F602;   |   FACE WITH TEARS OF JOY  |   ```&#x1F602;``` |   ```&#128514;``` |   0.12 €  |
-|   &#x1F923;   |   ROLLING ON THE FLOOR LAUGHING   |   ```&#x1F923;``` |   ```&#129315;``` |   0.09 €  |
+||                   | Licence | Adhésion association  | Cours | ASCD |
+|---|---                |:-:      |:-:                    |:-:    |--:   |
+|DEYME| Enfants 5-10 ans  | 25€     | 10€                   | 150€  | 10€  |
+|DEYME| Adultes           | 35€     | 10€                   | 160€  | 10€  |
+|Paul Sabatier|Enfants 5-14 ans|25€     | 10€                   | 150€  | 10€  |
+|RAMONVILLE/Paul Sabatier|Ados 14-18 ans 2 cours par semaine |25€     | 10€                   | 240€  | 10€  |
+|RAMONVILLE/Paul Sabatier|Ados 14-18 ans 3 à 6 cours par semaine |25€     | 10€                   | 270€  | 10€  |
+|RAMONVILLE/Paul Sabatier|Adultes 2 cours par semaine |35€     | 10€                   | 250€  | |
+|RAMONVILLE/Paul Sabatier|Adultes 3 à 6 cours par semaine |35€     | 10€                   | 290€  ||
 
-
-| DEYME |
-| | Licence | Adhésion association | Cours | ASCD |
-| Enfants 5-10 ans | 25€ | 10€ | 150€ | 10€ |
-| Adultes | 35€ | 10€ | 160€ | 10€ |
 
 ## A Deyme
 
