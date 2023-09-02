@@ -6,6 +6,10 @@ title: "Tarifs"
 
 Les cours de Deyme et de Ramonville / Paul Sabatier sont séparés et les tarifs sont différents.
 
+| DEYME |
+| | Licence | Adhésion association | Cours |
+| Enfants 5-10 ans | 25€ | 10€ | 150€ |
+
 ## A Deyme
 
 Pour les enfants : 10 euros d'adhésion à l'association, 150 euros pour les cours, et 25 euros de licence, soit **185** euros au total.
