@@ -18,7 +18,7 @@ Le club vous accueille à 3 horaires différents dans 3 salles:
 
 ## A Ramonville
 
-Le club vous accueille au 1er étage de la salle **Crossfit Rive Droite**, au 10 avenue des crêtes pour les confirmés et compétiteurs.
+Le club vous accueille au 1er étage de la salle **Crossfit Rive Droite**, au 10 avenue des crêtes pour les confirmés et compétiteurs. Les horaires sont indiqués <a href="/horaires/">ici</a>.
 
 
 <p align="center">
@@ -33,6 +33,7 @@ Le club vous accueille au Pôle sport de l'université Paul Sabatier:
 * Dans la salle de combat et
 * Dans le dojo.
 
+Les horaires sont indiqués <a href="/horaires/">ici</a>.
 
 <p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11564.562325191353!2d1.4723477!3d43.5619537!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aebc3aa17fb909%3A0x33e903788090b160!2sP%C3%B4le%20Sport%20-%20Universit%C3%A9%20Paul%20Sabatier!5e0!3m2!1sfr!2sfr!4v1693662583987!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
