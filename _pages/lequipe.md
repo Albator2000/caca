@@ -39,4 +39,4 @@ Max, titulaire du gant bleu en low kick, prépare son BMF 1 pour la Toussaint 20
 
 Mathieu est titulaire du gant bleu low kick et du BMF1, et accompagne vos enfants depuis la saison 2022.
 
-<img src="/assets/images/994553_10201443410825087_2052852471_n.jpeg" width="200" height="266" />
+<img src="/assets/images/994553_10201443410825087_2052852471_n.jpeg" width="100%" height="100%" />
