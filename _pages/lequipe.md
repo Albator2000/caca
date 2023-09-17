@@ -21,10 +21,10 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 
 3 coaches principaux assurent les cours au club.
 
-  | Nicolas Simonet | Nicolas Trameçon | Jean-Philippe Castaing |
+  | Nicolas Simonet |  Jean-Philippe Castaing |Nicolas Trameçon |
   |:---:|:---:|:---:|
-  | BPJEPS en 2021 | BPJEPS en 2020 | BPJEPS en 2022 |
-  | <img src="/assets/images/Nicolas_S1.jpg" width="70%" height="70%" /> | <img src="/assets/images/Nicolas_T_.jpg" width="70%" height="70%" />|<img src="/assets/images/6161058.jpg" width="70%" height="70%" />|
+  | BPJEPS en 2021 | BPJEPS en 2022 | BPJEPS en 2020 |
+  | <img src="/assets/images/Nicolas_S1.jpg" width="70%" height="70%" /> | <img src="/assets/images/6161058.jpg" width="70%" height="70%" />| <img src="/assets/images/Nicolas_T_.jpg" width="70%" height="70%" />|
   
 
 ## Les assistants
