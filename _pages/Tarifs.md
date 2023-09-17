@@ -22,4 +22,4 @@ Les cours de Deyme et de Ramonville / Paul Sabatier sont séparés et les tarifs
 |||||||
 |RAMONVILLE/Paul Sabatier|Adultes 3 à 6 cours par semaine |35€     | 10€                   | 290€  ||
 
-
+<img src="https://drive.google.com/file/d/1JCAwo-w3BeOAJyCCjlHdnijxLndTKwsX/view?usp=drive_link">
