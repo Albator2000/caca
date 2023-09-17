@@ -15,6 +15,8 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 |Secrétaire|Julien Boyer|
 |Trésorier|Mathieu Raimondi|
 
+<img src="/assets/images/IMG-20230909-WA0017.jpg" width="100%" height="100%" />
+
 ## Les Coachs
 
 3 coaches principaux assurent les cours au club.
