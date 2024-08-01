@@ -24,7 +24,7 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
   | Nicolas Simonet |  Jean-Philippe Castaing |Nicolas Trameçon |
   |:---:|:---:|:---:|
   | BPJEPS en 2021 | BPJEPS en 2022 | BPJEPS en 2020 |
-  | <img src="/assets/images/Nicolas_S1.jpg" width="70%" height="70%" /> | <img src="/assets/images/6161058.jpg" width="70%" height="70%" />| <img src="/assets/images/Nicolas_T_.jpg" width="70%" height="70%" />|
+  | <img src="/assets/images/Portrait_NICO.jpg" width="70%" height="70%" /> | <img src="/assets/images/Portrait_JIPE.jpg" width="70%" height="70%" />| <img src="/assets/images/Portrait_NEKO.jpg" width="70%" height="70%" />|
   
 
 ## Les assistants
