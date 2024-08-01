@@ -31,7 +31,12 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 
 3 assistants, en cours de formation participent également à l'encadrement des cours.
 
-### Esteban Colomé
+  | Nicolas Simonet |  Jean-Philippe Castaing |Nicolas Trameçon |
+  |:---:|:---:|:---:|
+  | BMF 1 (en cours) | BMF 1 | BMF 2 |
+  | <img src="/assets/images/Portrait_ESTE.JPG" width="70%" height="70%" /> | <img src="/assets/images/Portrait_MATH.JPG" width="70%" height="70%" />| <img src="/assets/images/Portrait_ALIX.JPG" width="70%" height="70%" />|
+
+<!--### Esteban Colomé
 
 Esteban, titulaire du gant bleu en low kick, prépare son BMF 1 pour la Toussaint 2024.
 
@@ -47,4 +52,4 @@ Mathieu est titulaire du gant bleu low kick et du BMF1, et accompagne vos enfant
 
 Alixan est titulaire du gant bleu low kick et du BMF2.
 
-<img src="/assets/images/Portrait_ALIX.JPG" width="80%" height="80%" />
+<img src="/assets/images/Portrait_ALIX.JPG" width="80%" height="80%" />-->
