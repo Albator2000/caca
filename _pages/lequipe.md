@@ -24,7 +24,7 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
   | Nicolas Simonet |  Jean-Philippe Castaing |Nicolas Trameçon |
   |:---:|:---:|:---:|
   | BPJEPS en 2021 | BPJEPS en 2022 | BPJEPS en 2020 |
-  | <img src="/assets/images/Portrait_NICO.JPG" width="70%" height="70%" /> | <img src="/assets/images/Portrait_JIPE.JPG" width="70%" height="70%" />| <img src="/assets/images/Portrait_NEKO.jpg" width="70%" height="70%" />|
+  | <img src="/assets/images/Portrait_NICO.JPG" width="70%" height="70%" /> | <img src="/assets/images/Portrait_JIPE.JPG" width="70%" height="70%" />| <img src="/assets/images/Portrait_NEKO.JPG" width="70%" height="70%" />|
   
 
 ## Les assistants
@@ -35,10 +35,16 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 
 Esteban, titulaire du gant bleu en low kick, prépare son BMF 1 pour la Toussaint 2024.
 
-<img src="/assets/images/Portrait_ESTE.jpg" width="80%" height="80%" />
+<img src="/assets/images/Portrait_ESTE.JPG" width="80%" height="80%" />
 
 ### Mathieu Raimondi
 
 Mathieu est titulaire du gant bleu low kick et du BMF1, et accompagne vos enfants depuis la saison 2022.
 
-<img src="/assets/images/Portrait_MATH.jpeg" width="80%" height="80%" />
+<img src="/assets/images/Portrait_MATH.JPG" width="80%" height="80%" />
+
+### Alixan Favre
+
+Alixan est titulaire du gant bleu low kick et du BMF2.
+
+<img src="/assets/images/Portrait_ALIX.JPG" width="80%" height="80%" />
