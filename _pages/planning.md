@@ -4,7 +4,7 @@ title: "Horaires"
 permalink: /horaires/
 ---
 
-Toute l'équipe mise aux poings travaille sur la nouvelle grille d'horaires pour la saison 2024/2025. Retrouvez-les dès le [color=#FF0000]15 août[/color] sur cette page.
+Toute l'équipe mise aux poings travaille sur la nouvelle grille d'horaires pour la saison 2024/2025. Retrouvez-les dès le <span style="color: #FF0000">**15 août**</span> sur cette page.
 
 <!--<img src="/assets/images/Horaires et salles.png" width="100%" height="100%" />-->
 
