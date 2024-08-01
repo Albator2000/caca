@@ -24,21 +24,21 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
   | Nicolas Simonet |  Jean-Philippe Castaing |Nicolas Trameçon |
   |:---:|:---:|:---:|
   | BPJEPS en 2021 | BPJEPS en 2022 | BPJEPS en 2020 |
-  | <img src="/assets/images/Portrait_NICO.jpg" width="70%" height="70%" /> | <img src="/assets/images/Portrait_JIPE.jpg" width="70%" height="70%" />| <img src="/assets/images/Portrait_NEKO.jpg" width="70%" height="70%" />|
+  | <img src="/assets/images/Portrait_NICO.JPG" width="70%" height="70%" /> | <img src="/assets/images/Portrait_JIPE.JPG" width="70%" height="70%" />| <img src="/assets/images/Portrait_NEKO.jpg" width="70%" height="70%" />|
   
 
 ## Les assistants
 
-2 assistants, en cours de formation participent également à l'encadrement des cours.
+3 assistants, en cours de formation participent également à l'encadrement des cours.
 
-### Max Labrousse
+### Esteban Colomé
 
-Max, titulaire du gant bleu en low kick, prépare son BMF 1 pour la Toussaint 2023.
+Esteban, titulaire du gant bleu en low kick, prépare son BMF 1 pour la Toussaint 2024.
 
-<img src="/assets/images/6161125.jpg" width="80%" height="80%" />
+<img src="/assets/images/Portrait_ESTE.jpg" width="80%" height="80%" />
 
 ### Mathieu Raimondi
 
 Mathieu est titulaire du gant bleu low kick et du BMF1, et accompagne vos enfants depuis la saison 2022.
 
-<img src="/assets/images/994553_10201443410825087_2052852471_n.jpeg" width="80%" height="80%" />
+<img src="/assets/images/Portrait_MATH.jpeg" width="80%" height="80%" />
