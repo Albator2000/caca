@@ -12,7 +12,7 @@ permalink: /Lieux/
 Le club vous accueille à la **salle de combat de l'INSA**.
 
 <p align="center">
-<iframe src="https://www.google.fr/maps/place/Centre+Activit%C3%A9s+Physiques+et+Sportives/@43.5693097,1.4674043,17z/data=!4m9!1m2!2m1!1sinsa+toulouse!3m5!1s0x12aebc385a075e23:0xeea974e8416772a7!8m2!3d43.5686825!4d1.4703902!16s%2Fg%2F1hd_psm0y?entry=ttu" width="100%"></iframe>
+<iframe src="https://maps.app.goo.gl/gLTtWUM8LAVnujEX9" width="100%"></iframe>
 </p>
 
 Le club vous accueille au **Pôle sport de l'université Paul Sabatier**, dans le **dojo**.
