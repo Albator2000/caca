@@ -5,7 +5,7 @@ permalink: /inscription2425/
 ---
 
 Vous pourrez vous inscrire pour la saison 2024/2025 à partir du 15 août 2024. Il vous faudra:
-<li>Remplir le formulaire d'inscription sur <a href="https://mise-aux-poings.assoconnect.com/collect/description/385559-d-formulaire-d-adhesion-2024">Assoconnect</a> ou téléchargez le <a href= "https://drive.google.com/drive/folders/15bsnt1pe65n70yWHl5iw4ksiCdzyFdwZ?usp=sharing"">Dossier d'inscription</a>
+<li>Remplir le formulaire d'inscription sur <a href="https://mise-aux-poings.assoconnect.com/collect/description/385559-d-formulaire-d-adhesion-2024">Assoconnect</a> ou téléchargez le <a href= "https://drive.google.com/drive/folders/15bsnt1pe65n70yWHl5iw4ksiCdzyFdwZ?usp=sharing">Dossier d'inscription</a>
         et renvoyez-le à <a href= "mailto:miseauxpoings31@gmail.com">miseauxpoings31@gmail.com</a>.</li>
 <li>Préparez le paiement par chèque, virement, ou pass sport. Les tarifs sont indiqués <a href="/Tarifs/">ici</a>.</li>
 <li>Les documents médicaux, qui dépendent de votre situation.</li>
@@ -25,7 +25,7 @@ Même chose pour les majeurs!
 ## Documents nécesaires
 
 Retrouvez les documents nécessaires ci-dessous:
-<li>[1] <a href= "/assets/documents/FKMDA- FFKMDA- Certificat médical plein contact.pdf.pdf">Certificat médical pour la compétition **plein contact**</a>. </li>
+<li>[1] <a href= "/assets/documents/FKMDA- FFKMDA- Certificat médical plein contact.pdf.pdf">Certificat médical pour la compétition plein contact</a>. </li>
 <li>[2] <a href= "/assets/documents/autorisation-de-soins-mineur-2024.docx">l'autorisation de soins</a>. </li>
 <li>[3] <a href= "/assets/documents/autorisation-parentale-mineur-plein-contact-2024.docx">l'autorisation parentale</a>. </li>
 <li>[4] <a href= "https://drive.google.com/file/d/1peY28CPlPG1dGRxPzoIO-wzyaSAflXuY/view?usp=drive_link">Le questionnaire de santé mineurs</a>. </li>
