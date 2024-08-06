@@ -22,7 +22,7 @@ Même chose pour les majeurs!
 
 <img src="/assets/schema_majeurs.png" width="60%" height="60%" />
 
-## Documents nécesaires
+## Documents nécessaires
 
 Retrouvez les documents nécessaires ci-dessous:
 <li>[1] <a href= "/assets/documents/FKMDA- FFKMDA- Certificat médical plein contact.pdf.pdf">Certificat médical pour la compétition plein contact</a>. </li>
