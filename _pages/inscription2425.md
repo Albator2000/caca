@@ -29,7 +29,7 @@ Retrouvez les documents nécessaires ci-dessous:
 <li>[2] <a href= "/assets/documents/autorisation-de-soins-mineur-2024.docx">l'autorisation de soins</a>. </li>
 <li>[3] <a href= "/assets/documents/autorisation-parentale-mineur-plein-contact-2024.docx">l'autorisation parentale</a>. </li>
 <li>[4] <a href= "https://drive.google.com/file/d/1peY28CPlPG1dGRxPzoIO-wzyaSAflXuY/view?usp=drive_link">Le questionnaire de santé mineurs</a>. </li>
-<li>[5] <a href= "https://drive.google.com/file/d/1NTx_9-ltO5XjZEXWRGBHNRtPZ3EMed3U/view?usp=drive_link">l'attestation QS mineurs</a>. </li>
+<li>[5] <a href= "https://drive.google.com/file/d/1TZ0GYjDY0XH942OfE8pZPZuBB9FV6fct/view?usp=drive_link">l'attestation QS mineurs</a>. </li>
 <li>[6] <a href= "https://drive.google.com/file/d/1tscNPqpy1uRaCXCQitO0-OP9coVzxkGK/view?usp=drive_link">Le questionnaire de santé majeurs</a>. </li>
 <li>[7] <a href= "https://drive.google.com/file/d/1NTx_9-ltO5XjZEXWRGBHNRtPZ3EMed3U/view?usp=drive_link">L'attestation QS majeurs</a>. </li>
 <li>[8] <a href= "/assets/documents/FFKMDA- Certificat médical light loisir.pdf">Certificat médical loisir / compétition light</a>. </li>
