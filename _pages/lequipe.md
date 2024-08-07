@@ -3,7 +3,7 @@ layout: page
 title: "L'Equipe"
 permalink: /Lequipe/
 ---
-
+<body>
 ## Les membres fondateurs
 
 En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathieu Raimondi, 5 amis de longue date fondèrent "Mise aux poings". Ils s'étaient rencontrés sur les tatamis il y a plus de 15 ans, et vous proposent aujourd'hui de vous accompagner pour développer leur passion des arts martiaux et de la boxe.
@@ -13,6 +13,7 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 |Présidente|Ratchana Simonet|
 |Vice-Présidente|Gaëlle Allehaux|
 |Secrétaire|Julien Boyer|
+|Secrétaire adjoint|David Gonzalez|
 |Trésorier|Mathieu Raimondi|
 
 <img src="/assets/images/IMG-20230909-WA0017.jpg" width="100%" height="100%" />
@@ -53,3 +54,5 @@ Mathieu est titulaire du gant bleu low kick et du BMF1, et accompagne vos enfant
 Alixan est titulaire du gant bleu low kick et du BMF2.
 
 <img src="/assets/images/Portrait_ALIX.JPG" width="80%" height="80%" />-->
+
+</body>
