@@ -3,6 +3,7 @@ layout: page
 permalink: /Tarifs/
 title: "Tarifs"
 ---
-Toute l'équipe de mise aux poings travaille sur les tarifs de la saison 2024/2025. Notre objectif: vous les fournir pour le <span style="color: #FF0000">**15 août**</span>.
 
-Quelques modifications à venir par rapport aux tarifs 2023/2024, que vous retrouverez <a href="/Tarifs2324/">ici</a>.
+L'équipe Mise aux poings est fière de vous présenter les tarifs de la saison 2024 / 2025.
+
+<img src="assets/images/Tarifs 24-25.png" width="100%" height="100%" />
