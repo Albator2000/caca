@@ -4,7 +4,9 @@
 html,
 body {
     height: 100%; // vh does not work on mobile devices
+    background-image: url("/assets/images/logo.png")
 }
+
 
 .page-container {
     position: relative;
