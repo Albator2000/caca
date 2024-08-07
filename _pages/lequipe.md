@@ -3,7 +3,7 @@ layout: page
 title: "L'Equipe"
 permalink: /Lequipe/
 ---
-<body>
+
 ## Les membres fondateurs
 
 En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathieu Raimondi, 5 amis de longue date fondèrent "Mise aux poings". Ils s'étaient rencontrés sur les tatamis il y a plus de 15 ans, et vous proposent aujourd'hui de vous accompagner pour développer leur passion des arts martiaux et de la boxe.
@@ -35,7 +35,7 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
   | Esteban Colomé |  Mathieu Raimondi | Alixan Favre |
   |:---:|:---:|:---:|
   | BMF 1 (en cours) | BMF 1 | BMF 2 |
-  | <img src="/assets/images/Portrait_ESTE.JPG" width="70%" height="70%" /> | <img src="/assets/images/Portrait_MATH.JPG" width="70%" height="70%" />| <img src="/assets/images/Portrait_ALIX.JPG" width="70%" height="70%" />|
+  | <img src="/assets/images/Portrait_ESTE.JPG" width="896" height="1344" /> | <img src="/assets/images/Portrait_MATH.JPG" width="896" height="1344" />| <img src="/assets/images/Portrait_ALIX.JPG" width="896" height="1344" />|
 
 <!--### Esteban Colomé
 
@@ -55,4 +55,3 @@ Alixan est titulaire du gant bleu low kick et du BMF2.
 
 <img src="/assets/images/Portrait_ALIX.JPG" width="80%" height="80%" />-->
 
-</body>
