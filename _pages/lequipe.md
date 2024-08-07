@@ -16,6 +16,8 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 |Secrétaire adjoint|David Gonzalez|
 |Trésorier|Mathieu Raimondi|
 
+<li></li>
+
 <img src="/assets/images/IMG-20230909-WA0017.jpg" width="100%" height="100%" />
 
 ## Les Coachs
