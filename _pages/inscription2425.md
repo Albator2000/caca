@@ -28,7 +28,7 @@ En fonction de votre situation, retrouvez les documents à nous fournir tel que 
 ## Documents nécessaires
 
 Retrouvez les documents nécessaires ci-dessous:
-<li>[1] <a href= "/assets/documents/FKMDA- FFKMDA- Certificat médical plein contact.pdf">Certificat médical pour la compétition plein contact</a>. </li>
+<li>[1] <a href= "/assets/documents/FFKMDA- Certificat médical plein contact.pdf">Certificat médical pour la compétition plein contact</a>. </li>
 <li>[2] <a href= "/assets/documents/autorisation-de-soins-mineur-2024.docx">l'autorisation de soins</a>. </li>
 <li>[3] <a href= "/assets/documents/autorisation-parentale-mineur-plein-contact-2024.docx">l'autorisation parentale</a>. </li>
 <li>[4] <a href= "https://drive.google.com/file/d/1peY28CPlPG1dGRxPzoIO-wzyaSAflXuY/view?usp=drive_link">Le questionnaire de santé mineurs</a>. </li>
