@@ -34,8 +34,8 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 
 4 assistants, en cours de formation participent également à l'encadrement des cours.
 
-  | Esteban Colomé |  Mathieu Raimondi | Alixan Favre | Siham Nasser
-  |:---:|:---:|:---:|
+  | Esteban Colomé |  Mathieu Raimondi | Alixan Favre | Siham Nasser |
+  |:---:|:---:|:---:|:---:|
   | BMF 1 (en cours) |      BMF 1      |      BMF 2      | BMF 1 (en cours) |
   | <img src="/assets/images/Portrait_ESTE.JPG" width="70%" height="70%" /> | <img src="/assets/images/Portrait_MATH.JPG" width="70%" height="70%" />| <img src="/assets/images/Portrait_ALIX.JPG" width="70%" height="70%" />|<img src="/assets/siham.jpeg" width="70%" height="70%" />|
 
