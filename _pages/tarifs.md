@@ -4,7 +4,7 @@ permalink: /Tarifs/
 title: "Tarifs"
 ---
 
-Toute l'équipe travaille pour mettre à jour les tarifs pour la saison 2024/2025!
+Voici les tarifs pour la saison 24-25.
 
 **25 euros de réduction pour les demandeurs d'emploi, les militaires et les étudiants.**
 
