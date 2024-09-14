@@ -1,4 +1,4 @@
-x---
+---
 layout: page
 permalink: /Tarifs/
 title: "Tarifs"
