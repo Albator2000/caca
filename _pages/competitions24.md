@@ -9,12 +9,15 @@ En 2024 le club Mise aux poings a participé à de nombreuses compétitions FFKM
 ## Championnat régional Kick Light à Sète
 
 C'est une délégation d'une vingtaine de personnes de mise aux poings qui s'est rendue au championnat régional enfants de Kick Ligh à Sète le week-end du 6 au 8 décembre 2024. Huit de nos enfants se sont présentés avec courage à ce championnat.
-        
+
+        <section>
+  <div class="container mt-2 mb-2">
         <div class="row">
           <div class="col-sm-6"><img src="/assets/prepa_Fitou_24.jpeg" width="100%" height="100%" /></div>
           <div class="col-sm-6"><img src="/assets/groupe_Fitou_24.jpeg" width="100%" height="100%" /></div>
         </div>
-        
+        </div>
+        </section>
 ## Championnat régional Low Kick / Kick Light à Fitou
 
 Le club a présenté 6 combattants au championnat régional Occitanie à Fitou en 2024. Bravo à tous les compétiteurs qui reviennent tous médaillés!
