@@ -17,9 +17,9 @@ header:
   - title: "Team Building"
     url: "/Teambuilding/"
     description: "Venez pratiquer la boxe entre collègues"
-  - title: "Boutique"
-    url: "https://www.vestiaire-officiel.com/shop/clubboxemiseaupoing"
-    description: "Notre boutique en ligne"
+  - title: "Compétitions"
+    url: "/Compet24/"
+    description: "Nos résultats en compétition"
 
 # footer links
 footer:
