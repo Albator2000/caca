@@ -20,12 +20,12 @@ C'est une délégation d'une vingtaine de personnes de mise aux poings qui s'est
 
 Le club a présenté 6 combattants au championnat régional Occitanie à Fitou en 2024. Bravo à tous les compétiteurs qui reviennent tous médaillés!
 
-Cima est médaillée de bronze en Senior -50 kg féminin discipline Kick Light
-Siham est médaillée d'or catégorie Senior -60 kg féminin discipline Kick Light - Qualifiée pour les championnats de France
-Mathieu est médaillé d'argent catégorie Vétéran -69 kg masculin discipline Kick Light
-Nicolas est médaillé de bronze catégorie Vétéran -69 kg masculin discipline Kick Light
-Alixan est médaillé de bronze catégorie Senior -74 kg masculin discipline Kick Light
-Esteban est médaillé d'argent en Senior -71 kg discipline Low kick - Qualifié pour les championnats de France
+* Cima est médaillée de bronze en Senior -50 kg féminin discipline Kick Light
+* Siham est médaillée d'or 🥇 catégorie Senior -60 kg féminin discipline Kick Light - Qualifiée pour les championnats de France
+* Mathieu est médaillé d'argent catégorie Vétéran -69 kg masculin discipline Kick Light
+* Nicolas est médaillé de bronze catégorie Vétéran -69 kg masculin discipline Kick Light
+* Alixan est médaillé de bronze catégorie Senior -74 kg masculin discipline Kick Light
+* Esteban est médaillé d'argent en Senior -71 kg discipline Low kick - Qualifié pour les championnats de France
 
 ## Championnat de France Low Kick
 
