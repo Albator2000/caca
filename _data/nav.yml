@@ -20,6 +20,9 @@ header:
   - title: "Compétitions"
     url: "/Compet24/"
     description: "Nos résultats en compétition"
+  - title: "Equipements"
+    url: "/materiel/"
+    description: "Tout savoir sur l'équipement dont vous avez besoin"
 
 # footer links
 footer:
