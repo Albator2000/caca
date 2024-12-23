@@ -15,18 +15,22 @@ C'est une délégation d'une vingtaine de personnes de mise aux poings qui s'est
           <div class="col-sm-6"><img src="/assets/groupe_Fitou_24.jpeg" width="100%" height="100%" /></div>
         </div>
         </div>
+Pour leur première compétition, nos enfants ont rapporté 4 médailles:
+* Louis et Pierre sont médaillés de bronze 🥉 en Poussins -32 kg
+* Victor est médaillé de bronze en Minimes -57 kg
+* Jules est médaillé de bronze en Cadets -69 kg
 
 ## Championnat régional Low Kick / Kick Light à Fitou
 
 Le club a présenté 6 combattants au championnat régional Occitanie à Fitou en 2024. Bravo à tous les compétiteurs qui reviennent tous médaillés!
 
-* Cima est médaillée de bronze en Senior -50 kg féminin discipline Kick Light
+* Cima est médaillée de bronze 🥉 en Senior -50 kg féminin discipline Kick Light
 * Siham est médaillée d'or 🥇 catégorie Senior -60 kg féminin discipline Kick Light - Qualifiée pour les championnats de France
-* Mathieu est médaillé d'argent catégorie Vétéran -69 kg masculin discipline Kick Light
-* Nicolas est médaillé de bronze catégorie Vétéran -69 kg masculin discipline Kick Light
-* Alixan est médaillé de bronze catégorie Senior -74 kg masculin discipline Kick Light
-* Esteban est médaillé d'argent en Senior -71 kg discipline Low kick - Qualifié pour les championnats de France
+* Mathieu est médaillé d'argent 🥈 catégorie Vétéran -69 kg masculin discipline Kick Light
+* Nicolas est médaillé de bronze 🥉 catégorie Vétéran -69 kg masculin discipline Kick Light
+* Alixan est médaillé de bronze 🥉 catégorie Senior -74 kg masculin discipline Kick Light
+* Esteban est médaillé d'argent 🥈 en Senior -71 kg discipline Low kick - Qualifié pour les championnats de France
 
 ## Championnat de France Low Kick
 
-Grâce à sa qualification en 2023, Esteban a pu participer aux championnats de France de Low Kick. Il y a décroché une médaille de bronze catégorie Senior -71 kg discipline Low Kick.
+Grâce à sa qualification en 2023, Esteban a pu participer aux championnats de France de Low Kick. Il y a décroché une médaille de bronze 🥉 catégorie Senior -71 kg discipline Low Kick.
