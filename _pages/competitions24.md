@@ -17,8 +17,8 @@ C'est une délégation d'une vingtaine de personnes de mise aux poings qui s'est
         </div>
 Pour leur première compétition, nos enfants ont rapporté 4 médailles:
 * Louis et Pierre sont médaillés de bronze 🥉 en Poussins -32 kg
-* Victor est médaillé de bronze en Minimes -57 kg
-* Jules est médaillé de bronze en Cadets -69 kg
+* Victor est médaillé de bronze 🥉 en Minimes -57 kg
+* Jules est médaillé de bronze 🥉 en Cadets -69 kg
 
 ## Championnat régional Low Kick / Kick Light à Fitou
 
