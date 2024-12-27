@@ -22,12 +22,6 @@ Les équipements suivants sont indispensables pour pratiquer chez nous:
 
   ## La tenue
 
-  
-        <div class="row">
-          <div class="col-sm-6"><img src="/assets/prepa_Fitou_24.jpeg" width="100%" height="100%" /></div>
-          <div class="col-sm-6"><img src="/assets/groupe_Fitou_24.jpeg" width="100%" height="100%" /></div>
-        </div>
-
-
+La boxe se pratique... en tenue de sport! Pieds nus, en short - T shirt. Nous préparons une offre de tenues aux couleurs du club. 
 
  
