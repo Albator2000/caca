@@ -9,7 +9,7 @@ Depuis le 1er Janvier 2025 vous bénéficiez des nouveaux tarifs. Pour vous insc
 <ul>
   <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518953-d-formulaire-d-adhesion-2024-mineurs-mi-annee">Formulaire pour les mineurs</a>.</li>
   <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518950-d-formulaire-d-adhesion-2024-majeurs-mi-annee">Formulaire pour les majeurs</a>.</li>
-  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518970-d-formulaire-d-adhesion-2024-majeurs-tarif-reduit-mi-annee">Formulaire tarif réduit pour les étudiants, demandeurs d'emploi, et militaires.</a>.</li>
+  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518970-d-formulaire-d-adhesion-2024-majeurs-tarif-reduit-mi-annee">Formulaire tarif réduit pour les étudiants, demandeurs d'emploi, et militaires</a>.</li>
 </ul>
 <!--<li>Remplir le formulaire d'inscription en ligne. Ce dernier sera disponible très vite!</li>-->
 <li>Préparez le paiement par chèque, virement, ou pass sport. Les tarifs sont indiqués <a href="/Tarifs/">ici</a>, et sont rappelés sur les formulaires d'inscription Assoconnect.</li>
