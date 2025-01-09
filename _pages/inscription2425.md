@@ -4,12 +4,12 @@ title: "Inscription Saison 2024/2025"
 permalink: /inscription2425/
 ---
 
-Vous pourrez vous inscrire pour la saison 2024/2025 à partir du 15 août 2024. Il vous faudra:
+Depuis le 1er Janvier 2025 vous bénéficiez des nouveaux tarifs. Pour vous inscrire il vous faudra:
 <li>Remplir le formulaire d'inscription sur Assoconnect en fontion de votre situation : </li>
 <ul>
-  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/452249-d-formulaire-d-adhesion-2024-mineurs">Formulaire pour les mineurs</a>.</li>
-  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/385559-d-formulaire-d-adhesion-2024-majeurs">Formulaire pour les majeurs</a>.</li>
-  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/452261-d-formulaire-d-adhesion-2024-majeurs-tarif-reduit">Formulaire tarif réduit pour les étudiants, demandeurs d'emploi, et militaires.</a>.</li>
+  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518953-d-formulaire-d-adhesion-2024-mineurs-mi-annee">Formulaire pour les mineurs</a>.</li>
+  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518950-d-formulaire-d-adhesion-2024-majeurs-mi-annee">Formulaire pour les majeurs</a>.</li>
+  <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518970-d-formulaire-d-adhesion-2024-majeurs-tarif-reduit-mi-annee">Formulaire tarif réduit pour les étudiants, demandeurs d'emploi, et militaires.</a>.</li>
 </ul>
 <!--<li>Remplir le formulaire d'inscription en ligne. Ce dernier sera disponible très vite!</li>-->
 <li>Préparez le paiement par chèque, virement, ou pass sport. Les tarifs sont indiqués <a href="/Tarifs/">ici</a>, et sont rappelés sur les formulaires d'inscription Assoconnect.</li>
